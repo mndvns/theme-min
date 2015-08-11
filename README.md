@@ -2,6 +2,12 @@
 
 A minimalist theme
 
+## Installation
+
+```
+npm i --save mndvns/theme-min
+```
+
 ## Usage
 
 ```jade
