@@ -1,0 +1,5 @@
+%./list-item.ess
+
+&-anchor
+  &.is-active
+    color = __.color.primary

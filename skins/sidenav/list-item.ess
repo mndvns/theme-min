@@ -1,0 +1,6 @@
+list-style none
+text-decoration none
+
+&-anchor
+  &:after
+    border-bottom none

@@ -1,0 +1,9 @@
+%./list-item.ess
+margin-bottom 2rem
+
+&-anchor
+  color = __.color.black.lighter
+  font-size = __.h6
+  text-transform uppercase
+  &.is-active
+    color = __.color.primary
