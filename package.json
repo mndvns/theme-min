@@ -1,0 +1,25 @@
+{
+  "name": "theme-min",
+  "version": "0.1.0",
+  "description": "a minimalist theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mndvns/theme-min.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com> (http://mndvns.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mndvns/theme-min/issues"
+  },
+  "homepage": "https://github.com/mndvns/theme-min",
+  "dependencies": {
+    "ui-kit": "^0.7.3"
+  }
+}
